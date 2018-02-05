@@ -1,0 +1,78 @@
+[11-Jul-2016 08:06:02 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:06:10 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:06:15 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:10:55 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:15:37 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:15:40 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:15:43 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:16:09 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:16:11 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:16:13 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:17:51 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:18:04 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:18:35 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:18:52 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:22:02 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:22:03 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:22:20 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:22:26 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:22:32 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:22:36 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:22:47 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:23:32 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:23:40 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:24:24 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:25:43 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:25:45 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:26:04 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:26:27 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:27:20 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:31:34 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:31:48 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:31:52 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:31:59 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:32:57 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:33:00 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:41:40 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:41:44 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[11-Jul-2016 08:49:47 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:55:52 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:56:09 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:56:28 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/street.php on line 281
+[11-Jul-2016 08:58:40 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/RocketSMS/connection2.php on line 240
+[24-Aug-2016 03:07:32 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:07:44 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/street.php on line 271
+[24-Aug-2016 03:41:55 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:42:12 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:43:23 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:44:30 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:46:04 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:46:27 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:47:44 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:47:54 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[24-Aug-2016 03:48:15 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/macappst/public_html/Rocket_SMS/connection.php on line 221
+[10-Mar-2017 09:30:16 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[10-Mar-2017 09:31:25 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[10-Mar-2017 15:55:51 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[10-Mar-2017 15:56:01 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[10-Mar-2017 21:29:36 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[10-Mar-2017 21:29:46 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[11-Mar-2017 03:23:44 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[11-Mar-2017 03:24:36 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[11-Mar-2017 11:26:31 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[11-Mar-2017 11:28:16 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[17-Mar-2017 08:00:03 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[18-Mar-2017 01:35:08 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[18-Mar-2017 01:35:21 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[18-Mar-2017 21:36:57 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[22-Mar-2017 19:29:46 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[22-Mar-2017 20:07:51 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[27-Mar-2017 16:07:37 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[27-Mar-2017 22:03:24 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[28-Mar-2017 05:38:06 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[28-Mar-2017 09:06:40 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[29-Mar-2017 03:35:00 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[01-Apr-2017 05:16:54 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[01-Apr-2017 05:53:09 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
+[16-Apr-2017 02:46:35 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/macappst/public_html/Rocket_SMS/api.php on line 45
+[16-Apr-2017 02:47:03 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/macappst/public_html/Rocket_SMS/jsoncheck.php on line 4
